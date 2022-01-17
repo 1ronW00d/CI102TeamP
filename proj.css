@@ -1,0 +1,31 @@
+body {
+    font-family: Helvetica;
+    background-color: #fbf4e8;
+    
+  }
+  
+  h1 {
+    color: #796099;
+    text-align: center;
+    font-family: verdana;
+  }
+  
+  p {
+    border-style: double;
+    font-family: verdana;
+    font-size: 25px;
+  }
+
+  div{
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    background-color: #cfb6d3;
+  }
+
+
+
+  button{
+    font-family: verdana;
+    font-size: 20px;
+  }
